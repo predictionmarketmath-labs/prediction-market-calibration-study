@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these datasets, papers or scripts in your work, please cite them as below."
+title: "Empirical Calibration, Brier Decomposition & Fee Drag in Binary Prediction Markets: A 5,000-Contract Benchmark"
+authors:
+  - name: "PredictionMarketMath Labs"
+    affiliation: "Applied Probability Institute"
+    website: "https://predictionmarketmath.org"
+date-released: 2026-09-23
+url: "https://predictionmarketmath.org/en/research/prediction-market-calibration-study/"
+repository-code: "https://github.com/predictionmarketmath-labs/prediction-market-calibration-study"
+keywords:
+  - "prediction markets"
+  - "calibration"
+  - "brier score"
+  - "fees"
+  - "open science"
+license: CC-BY-4.0

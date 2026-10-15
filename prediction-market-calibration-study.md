@@ -2,7 +2,7 @@
 
 **Authors:** PMM Quantitative Research Group & Empirical Governance Lab  
 **Published:** March 2026 • Working Paper Series (PMM-WP-2026-01)  
-**Preprint URI:** `https://predictionmarketmath.org/papers/prediction-market-calibration-study.pdf`  
+**Preprint URI:** `https://predictionmarketmath.org/en/research/prediction-market-calibration-study/`  
 **Data Availability:** Open Science Suite (CC-BY-4.0) • Dataset: `prediction_market_calibration_dataset.csv`
 
 ---
@@ -156,6 +156,6 @@ python verify_calibration_simulations.py
   institution = {PredictionMarketMath Institute},
   year        = {2026},
   number      = {PMM-WP-2026-01},
-  url         = {https://predictionmarketmath.org/papers/prediction-market-calibration-study.pdf}
+  url         = {https://predictionmarketmath.org/en/research/prediction-market-calibration-study/}
 }
 ```

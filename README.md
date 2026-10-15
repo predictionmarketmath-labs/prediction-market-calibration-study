@@ -1,6 +1,6 @@
 # Empirical Calibration, Brier Decomposition and Fee Drag in Binary Prediction Markets: A 5,000-Contract Benchmark
 
-[![Open Access](https://img.shields.io/badge/Open%20Access-Preprint-success.svg)](https://predictionmarketmath.org/research/prediction-market-calibration-study/)
+[![Open Access](https://img.shields.io/badge/Open%20Access-Preprint-success.svg)](https://predictionmarketmath.org/en/research/prediction-market-calibration-study/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Dataset: 5,000 Contracts](https://img.shields.io/badge/Dataset-5%2C000%20Contracts-blue.svg)](./prediction_market_calibration_dataset.csv)
 [![Verification Suite](https://img.shields.io/badge/Tests-Python%20Verified-brightgreen.svg)](./verify_calibration_simulations.py)
@@ -52,6 +52,6 @@ Verification Invariant Check:
   author={{PredictionMarketMath Labs and Applied Probability Institute}},
   journal={Applied Probability Institute Research Hub},
   year={2026},
-  url={https://predictionmarketmath.org/research/prediction-market-calibration-study/}
+  url={https://predictionmarketmath.org/en/research/prediction-market-calibration-study/}
 }
 ```
